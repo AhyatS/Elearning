@@ -86,9 +86,40 @@
             <div class="back-button">
                 <a href="home.html"><button>Kembali</button></a>
             </div>
+            <div>
+                <form name='biodata' method='post' action='tutor.html'>
+                    <pre>
+                    Nim     : <input type='number' name='nim'><p id='val_nim'>* Hanya boleh di-isi dengan angka</p>
+                    Nama    : <input type='text' name='nama' ><p id='val_nama'>* Masukkan Nama Mahasiswa</p>
+                    Agama   : <select name='agama'>
+                          <option>Islam
+                          <option>Hindu
+                          <option>Budha
+                          <option>Kristen             
+                          <option>Konghucu       
+                          </select><p>* Pilih Agama</p>
+                    </pre>
+                      <input type="button" onClick="terimainput()" value='Simpan'>
+                      <input type='reset' value='Ulangi'>
+                    
+                    </form>
+                    
+                    <table border='1' id='tabelinput'>
+                    <tr>
+                      <td>NIM</td>
+                      <td>NAMA</td>
+                      <td>AGAMA</td>
+                      <td>NILAI</td>
+                    </tr>
+                    </table>
+            
+            </div>
 
         </div>
     </main>
+
+    
+
     <script src="index.js"></script>
 </body>
 </html>
