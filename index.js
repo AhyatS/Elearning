@@ -406,7 +406,7 @@ function terimainput(){
       } else {
       document.getElementById("val_nama").innerHTML="<font color='purple'>* Benar</font>";
       } else {
-        document.getElementById("grade-percentage").innerHTML="<font color = 'purple'>* NIlai Anda</font>";
+        document.getElementById("grade-details").innerHTML="<font color = 'purple'>* NIlai Anda</font>";
     }
       
     } else {
@@ -428,6 +428,7 @@ function terimainput(){
         cell1.innerHTML = x;
         cell2.innerHTML = y;
         cell3.innerHTML = z;
+        cell4.innerHTML = w;
       }
     }
     }
