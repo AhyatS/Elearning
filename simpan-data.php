@@ -63,20 +63,20 @@ berolahraga, antara lain, membuat kita dapat tidur nyenyak. Olahraga juga membua
 menjadi orang yang selalu ceria sehingga terhindar dari berbagai macam penyakit, termasuk 
 kanker. <br>
 Pendapat yang dapat mewakili pernyataan itu adalah …. <br><i>
-<input type="radio" name="no2" value="a">a. Rajin berolahraga sudah pasti terbebas dari kanker. <p>
-<input type="radio" name="no2" value="b">b. Sebelum tidur, seseorang harus banyak berolahraga. <p>
-<input type="radio" name="no2" value="c">c. Orang yang terkena kanker pasti tidak pernah berolahraga. <p>
-<input type="radio" name="no2" value="d">d. Berolahraga dapat menghindarkan kita dari berbagai penyakit. <p>
-<input type="radio" name="no2" value="e">e. Kanker merupakan penyakit yang disebabkan oleh kurang tidur. <p>
+<input type="radio" name="no4" value="a">a. Rajin berolahraga sudah pasti terbebas dari kanker. <p>
+<input type="radio" name="no4" value="b">b. Sebelum tidur, seseorang harus banyak berolahraga. <p>
+<input type="radio" name="no4" value="c">c. Orang yang terkena kanker pasti tidak pernah berolahraga. <p>
+<input type="radio" name="no4" value="d">d. Berolahraga dapat menghindarkan kita dari berbagai penyakit. <p>
+<input type="radio" name="no4" value="e">e. Kanker merupakan penyakit yang disebabkan oleh kurang tidur. <p>
 </i>
 </ol></tr></td><tr><td>
 <ol start="1" type="a">
 5. Fakta yang diperlukan untuk pendapat-pendapat yang ada pada kutipan itu adalah …. <br><i>
-<input type="radio" name="no2" value="a">a. Cara-cara berolahraga yang baik. <p>
-<input type="radio" name="no2" value="b">b. Proses perkembangbiakan kanker. <p>
-<input type="radio" name="no2" value="c">c. Macam-macam penyakit berbahaya. <p>
-<input type="radio" name="no2" value="d">d. Jumlah penyakit yang biasa menyerang tubuh. <p>
-<input type="radio" name="no2" value="e">e. Pengalaman orang-orang yang biasa olahraga. <p>
+<input type="radio" name="no5" value="a">a. Cara-cara berolahraga yang baik. <p>
+<input type="radio" name="no5" value="b">b. Proses perkembangbiakan kanker. <p>
+<input type="radio" name="no5" value="c">c. Macam-macam penyakit berbahaya. <p>
+<input type="radio" name="no5" value="d">d. Jumlah penyakit yang biasa menyerang tubuh. <p>
+<input type="radio" name="no5" value="e">e. Pengalaman orang-orang yang biasa olahraga. <p>
 </i>
 </ol></tr></td><tr><td>
 <ol start="1" type="a">
@@ -90,11 +90,11 @@ Argumentasi <br>
 (4) Jenis promo beragam mulai dari potongan harga, poin, hingga voucer belanja. <br>
 (5) Lalu lintas yang padat membuat masyarakat malas keluar rumah untuk belanja. <br>
 Argumentasi yang sesuai dengan pernyataan (tesis) tersebut adalah nomor ....  <br><i>
-<input type="radio" name="no2" value="a">a. (1), (2), dan (3) <p>
-<input type="radio" name="no2" value="b">b. (1), (3), dan (5) <p>
-<input type="radio" name="no2" value="c">c. (2), (3), dan (4) <p>
-<input type="radio" name="no2" value="d">d. (2), (4), dan (5) <p>
-<input type="radio" name="no2" value="e">e. (3), (4), dan (5) <p>
+<input type="radio" name="no6" value="a">a. (1), (2), dan (3) <p>
+<input type="radio" name="no6" value="b">b. (1), (3), dan (5) <p>
+<input type="radio" name="no6" value="c">c. (2), (3), dan (4) <p>
+<input type="radio" name="no6" value="d">d. (2), (4), dan (5) <p>
+<input type="radio" name="no6" value="e">e. (3), (4), dan (5) <p>
 </i>
 </ol></tr></td><tr><td>
 <ol start="1" type="a">
@@ -105,11 +105,11 @@ Argumentasi yang sesuai dengan pernyataan (tesis) tersebut adalah nomor ....  <b
 (4) Dalam konteks pengajaran, literasi merupakan kemampuan mengakses, memahami, dan menggunakan sesuatu secara cerdas melalui berbagai aktivitas. <br>
 (5) Aktivitas tersebut di antaranya, membaca, berhitung, menyimak, menulis, berbicara dan berbudaya. <br>
 Kalimat yang tidak efektif dari paragraf tersebut adalah kalimat nomor …. <br><i>
-<input type="radio" name="no2" value="a">a. (1) dan (2) <p>
-<input type="radio" name="no2" value="b">b. (1) dan (5) <p>
-<input type="radio" name="no2" value="c">c. (2) dan (3) <p>
-<input type="radio" name="no2" value="d">d. (3) dan (4) <p>
-<input type="radio" name="no2" value="e">e. (4) dan (5) <p>
+<input type="radio" name="no7" value="a">a. (1) dan (2) <p>
+<input type="radio" name="no7" value="b">b. (1) dan (5) <p>
+<input type="radio" name="no7" value="c">c. (2) dan (3) <p>
+<input type="radio" name="no7" value="d">d. (3) dan (4) <p>
+<input type="radio" name="no7" value="e">e. (4) dan (5) <p>
 </i>
 </ol></tr></td><tr><td>
 <ol start="1" type="a">
@@ -123,11 +123,11 @@ dosa saja. Oleh karena itu, kita tidak perlu <i>mengkalkulasikan</i> setiap keba
 yang akan diterima. Kebaikan bukanlah kebenaran dan kepastian, melainkan ketenangan dan 
 kenyamanan jiwa dan hati. <br>
 Perbaikan kata berimbuhan yang tepat untuk memperbaiki kata yang bercetak miring pada paragraf tersebut adalah .... <br><i>
-<input type="radio" name="no2" value="a">a. kontras, mendapati, mengalkulasikan  <p>
-<input type="radio" name="no2" value="b">b. kontras, mendapatkan, mengkalkulasi <p>
-<input type="radio" name="no2" value="c">c. kontradiktif, mendapati, mengalkulasi <p>
-<input type="radio" name="no2" value="d">d. kontradiksi, mendapatkan, mengkalkulasi <p>
-<input type="radio" name="no2" value="e">e. kontradiktif, mendapatkan, mengalkulasikan <p>
+<input type="radio" name="no8" value="a">a. kontras, mendapati, mengalkulasikan  <p>
+<input type="radio" name="no8" value="b">b. kontras, mendapatkan, mengkalkulasi <p>
+<input type="radio" name="no8" value="c">c. kontradiktif, mendapati, mengalkulasi <p>
+<input type="radio" name="no8" value="d">d. kontradiksi, mendapatkan, mengkalkulasi <p>
+<input type="radio" name="no8" value="e">e. kontradiktif, mendapatkan, mengalkulasikan <p>
 </i>
 </ol></tr></td><tr><td>
 <ol start="1" type="a">
@@ -139,11 +139,11 @@ Judul : Problematika Budaya Menyontek di Indonesia <br>
 (4) Berbagai fakta ditemukan pada setiap tingkat jenjang pendidikan.<br> 
 (5) Simpulan budaya menyontek dengan budaya korupsi di Indonesia <br>
 Urutan kerangka yang sesuai dengan judul adalah nomor …. <br><i>
-<input type="radio" name="no2" value="a">a. (1), (2), (4), (3), (5) <p>
-<input type="radio" name="no2" value="b">b. (2), (4), (1), (3), (5)  <p>
-<input type="radio" name="no2" value="c">c. (3), (2), (3), (1), (5) <p>
-<input type="radio" name="no2" value="d">d. (3), (4), (2), (1), (5) <p>
-<input type="radio" name="no2" value="e">e. (4), (1), (3), (2), (5) <p>
+<input type="radio" name="no9" value="a">a. (1), (2), (4), (3), (5) <p>
+<input type="radio" name="no9" value="b">b. (2), (4), (1), (3), (5)  <p>
+<input type="radio" name="no9" value="c">c. (3), (2), (3), (1), (5) <p>
+<input type="radio" name="no9" value="d">d. (3), (4), (2), (1), (5) <p>
+<input type="radio" name="no9" value="e">e. (4), (1), (3), (2), (5) <p>
 </i>
 </ol></tr></td><tr><td>
 <ol start="1" type="a">
@@ -156,11 +156,11 @@ Predikat kota Yogyakarta bukan hanya sekadar <br>
 (5) dunia.<br> 
 Ejaan yang perlu diperbaiki pada kata bernomor yang terdapat pada paragraf tersebut 
 adalah... . <br><i>
-<input type="radio" name="no2" value="a">a. (1) sekadar seharusnya sekedar <p>
-<input type="radio" name="no2" value="b">b. (2) souvenir seharusnya sovenir  <p>
-<input type="radio" name="no2" value="c">c. (3) skala seharusnya sekala  <p>
-<input type="radio" name="no2" value="d">d. (4) bertaraf seharusnya bertarap <p>
-<input type="radio" name="no2" value="e">e. (5) trend seharusnya tren <p>
+<input type="radio" name="no10" value="a">a. (1) sekadar seharusnya sekedar <p>
+<input type="radio" name="no10" value="b">b. (2) souvenir seharusnya sovenir  <p>
+<input type="radio" name="no10" value="c">c. (3) skala seharusnya sekala  <p>
+<input type="radio" name="no10" value="d">d. (4) bertaraf seharusnya bertarap <p>
+<input type="radio" name="no10" value="e">e. (5) trend seharusnya tren <p>
 </i>
 </ol></tr></td>
     <tr><td>Soal ESSAY</tr></td>
@@ -168,10 +168,10 @@ adalah... . <br><i>
     <tr><td><textarea name="soal1" style="width:500px"></textarea></td></tr>
 	<tr><td></td><td></td></tr>
 	<tr><td>2. <b>Sebutkan dan jelaskan struktur teks artikel?</b></tr></td>
-    <tr><td><textarea name="soal1" style="width:500px"></textarea></td></tr>
+    <tr><td><textarea name="soal2" style="width:500px"></textarea></td></tr>
 	<tr><td></td><td></td></tr>
 	<tr><td>3. <b>Sebutkan dan jelaskan kaidah kebahasaan teks artikel?</b></tr></td>
-    <tr><td><textarea name="soal1" style="width:500px"></textarea></td></tr>
+    <tr><td><textarea name="soal3" style="width:500px"></textarea></td></tr>
 	<tr><td></td><td></td></tr>
 	<tr><td>4. <b>Cermati teks berikut!</b><br>
 	Masalah polusi plastik sedang menjadi isu hangat di Indonesia. Sudah menjadi fakta yang 
@@ -190,7 +190,7 @@ adalah... . <br><i>
 	kilogram plastik dan sandal jepit.<br>
 	Fakta pendukung opini yang sesuai isi teks tersebut adalah …
 	</tr></td>
-    <tr><td><textarea name="soal1" style="width:500px"></textarea></td></tr>
+    <tr><td><textarea name="soal4" style="width:500px"></textarea></td></tr>
 	<tr><td></td><td></td></tr>
 	<tr><td>5. <b>Cermati kutipan berikut!</b><br> 
 	Buncis, Phaseolus vulgaris L, merupakan sayuran sejenis polong-polongan yang dapat 
@@ -201,7 +201,7 @@ adalah... . <br><i>
 	kesehatan jantung, menyehatkan saluran pencernaan, memperkuat sistem kekebalan tubuh, 
 	dan memelihara kesehatan mata. <br>
 	Informasi yang sesuai dengan kutipan tersebut terdapat dalam kalimat....</b></tr></td>
-    <tr><td><textarea name="soal1" style="width:500px"></textarea></td></tr>
+    <tr><td><textarea name="soal5" style="width:500px"></textarea></td></tr>
 	<tr><td></td><td></td></tr>
 	<tr><td><input type="submit" name="ok" value="Simpan"><input type=reset value=Reset><input type="button" value="Go Back" onclick="history.back(-1)"></td></tr> 
 </form>
@@ -216,7 +216,18 @@ if(isset($_POST['ok'])){
 		$NO1=$_POST['NO1'];
 		$no2=$_POST['no2'];
 		$no3=$_POST['no3'];
+		$no4=$_POST['no4'];
+		$no5=$_POST['no5'];
+		$no6=$_POST['no6'];
+		$no7=$_POST['no7'];
+		$no8=$_POST['no8'];
+		$no9=$_POST['no9'];
+		$no10=$_POST['no10'];
         $soal1=$_POST['soal1'];
+        $soal2=$_POST['soal2'];
+        $soal3=$_POST['soal3'];
+        $soal4=$_POST['soal4'];
+        $soal5=$_POST['soal5'];
 		date_default_timezone_set('Asia/Jakarta');
 		$tanggal=date("h:i:s");
 		$buka=fopen("hasil.html",'a');
@@ -226,7 +237,18 @@ if(isset($_POST['ok'])){
 		fwrite($buka,"NO1 : ${NO1} <br> " );
 		fwrite($buka,"no2 : ${no2} <br> " );
 		fwrite($buka,"no3 : ${no3} <br> " );
+		fwrite($buka,"no4 : ${no4} <br> " );
+		fwrite($buka,"no5 : ${no5} <br> " );
+		fwrite($buka,"no6 : ${no6} <br> " );
+		fwrite($buka,"no7 : ${no7} <br> " );
+		fwrite($buka,"no8 : ${no8} <br> " );
+		fwrite($buka,"no9 : ${no9} <br> " );
+		fwrite($buka,"no10 : ${no10} <br> " );
         fwrite($buka,"soal1 : ${soal1} <br> ");
+        fwrite($buka,"soal2 : ${soal2} <br> ");
+        fwrite($buka,"soal3 : ${soal3} <br> ");
+        fwrite($buka,"soal4 : ${soal4} <br> ");
+        fwrite($buka,"soal5 : ${soal5} <br> ");
 		fwrite($buka,"<hr>");
 		fclose($buka);
 		print "data berhasil disimpan";
