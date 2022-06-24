@@ -1,0 +1,16 @@
+body{
+    background-color:lightgreen;
+}
+
+.row-c{
+    margin-left:20px;margin-right:20px;
+}
+
+.quiz-title{
+    color:#fff;
+    font-size:32px;
+}
+
+.label-wht{
+    color:#fff;
+}

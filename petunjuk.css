@@ -6,6 +6,10 @@ body {
     margin:40px;
 }
 
+.notbold{
+    font-weight:normal
+}​
+
 #tabbed_box {
     margin: 0px auto 0px auto;
     width:300px;

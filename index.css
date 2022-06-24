@@ -2,6 +2,10 @@
     display: flex;
 }
 
+.start-button{
+    margin-top: 700px;
+}
+
 
 @import url(https://fonts.googleapis.com/css?family=Roboto:900,300);
 body {
