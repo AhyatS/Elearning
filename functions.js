@@ -12,3 +12,9 @@ function tabSwitch(new_tab, new_content) {
     document.getElementById(new_tab).className = 'active';      
  
 }
+
+$(document).ready(function() {
+    $("#tombol").click(function() {
+      $("#box").toggle("slow");
+    })
+ });

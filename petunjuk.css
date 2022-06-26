@@ -109,3 +109,11 @@ ul.tabs {
 .content ul li:last-child {
     border-bottom:none;
 }
+
+
+.box {
+    width: 300px;
+    height: 80px;
+    background-color: pink;
+    border: 2px solid black;
+  }
